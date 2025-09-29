@@ -31,7 +31,6 @@ In addition to the parameters mentioned in the main text, the client batch size 
 The client learning rate (*client\_lr*) and server learning rate (*server\_lr*) vary depending on the baselines and experimental environments.
 
 - In `pFedMe`, the server updates the global model with the designed parameter ($\beta$) set to **1.0**.
-- In `Per-FedAvg`, $\beta$ varies between **0.1 / 0.2** depending on the experiments.
 - For `SCAFFOLD` and `FedProx`, the weight decay (*weight\_decay*) is set to **1e-4**.
 - The proximal regularization parameter (*FedProx\_mu*) in `FedProx` is also set to **1e-4**.
 
