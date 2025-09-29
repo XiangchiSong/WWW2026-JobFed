@@ -37,8 +37,6 @@ The client learning rate (*client\_lr*) and server learning rate (*server\_lr*) 
 
 The $\alpha$ update learning rate ($\eta$) used in **our approach** is set to **0.1** by default. The predefined balancing ratio ($\gamma$) defaults to **0.5**, and the balancing ratio in the strategy ($optBeta$) is also set to **0.5** by default.
 
-For experiments where the results do not show significant differences, such as the **ablation study on $optBeta$, two decimal places** are retained; for all other experiments, **one decimal place** is retained.
-
 
 
 
