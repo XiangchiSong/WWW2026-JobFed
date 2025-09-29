@@ -1,5 +1,5 @@
-# [WWW 2026] JobFed: Joint Optimization for Balancing Generalization and Personalization of Hierarchical Federated Learning in Large-scale IoT Environments
-This is the WWW 2026 *JobFed: Joint Optimization for Balancing Generalization and Personalization of Hierarchical Federated Learning in Large-scale IoT Environments* GitHub library. Due to the paper page limit, the content that cannot be fully explained in the paper is shown here, as well as all the data, parameter usage, and training records on the server.
+# [WWW 2026] JobFed: Joint Optimization for Balancing Generalization and Personalization in Hierarchical Federated Learning for Large-scale IoT Environments
+This is the WWW 2026 *JobFed: Joint Optimization for Balancing Generalization and Personalization in Hierarchical Federated Learning for Large-scale IoT Environments* GitHub library. Due to the paper page limit, the content that cannot be fully explained in the paper is shown here, as well as all the data, parameter usage, and training records on the server.
 
 ## System Code and Training Records
 Currently, the core code has not been uploaded. Only partial code and complete server training records are publicly available to demonstrate the authenticity and reproducibility of the project. The full code will be made public after the paper is published.
